@@ -1,3 +1,4 @@
 OD: Created Log file
 L: Made a commit before merge
 OD: Trying to make another issue 
+OD: Edits in response to Issues#4
