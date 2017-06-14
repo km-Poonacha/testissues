@@ -27,3 +27,4 @@ Test 6: Two commits on fork for cherry picking
 Test 7: Two commits squashed and merged
   Commit 1
   Commit 2
+Test 8: Commit for rebase
