@@ -16,3 +16,5 @@ OD2: making a new commit in od
 Test1: Randomeshwar making a commit on km-poonacha/testissues directly using collobarotor privilage
 Test 2: Randomeshwar makes a change in the fork and sends a pull request to upstream
 Test 3: Randomeshwar makes a change in the fork and sends a pull request to upstream
+Test 4: Two commits on fork before pull request
+  Commit 1
