@@ -13,3 +13,4 @@ OD: Making commit 5 to L and package and send to L
 OD: Makink commit 6 to L
 14/06/2017
 OD2: making a new commit in od
+Test1: Randomeshwar making a commit on km-poonacha/testissues directly using collobarotor privilage
