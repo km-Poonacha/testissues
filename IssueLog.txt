@@ -24,3 +24,4 @@ Test 5: Two commits on fork with only one merger and other rejected
   Commit 2: reject
 Test 6: Two commits on fork for cherry picking 
   Commit 1: Accept
+  Commit 2: Reject - cherry pick out
