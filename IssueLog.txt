@@ -19,3 +19,5 @@ Test 3: Randomeshwar makes a change in the fork and sends a pull request to upst
 Test 4: Two commits on fork before pull request
   Commit 1
   Commit 2
+Test 5: Two commits on fork with only one merger and other rejected 
+  Commit 1: Accept
