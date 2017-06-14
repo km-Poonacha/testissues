@@ -26,3 +26,4 @@ Test 6: Two commits on fork for cherry picking
   Commit 1: Accept
 Test 7: Two commits squashed and merged
   Commit 1
+  Commit 2
