@@ -18,3 +18,4 @@ Test 2: Randomeshwar makes a change in the fork and sends a pull request to upst
 Test 3: Randomeshwar makes a change in the fork and sends a pull request to upstream
 Test 4: Two commits on fork before pull request
   Commit 1
+  Commit 2
