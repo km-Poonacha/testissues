@@ -33,3 +33,4 @@ Test 10: One commit for rebase - retry 2
 Test 11: For cherry picking
 	Commit: 1
 	Commit: 2
+	COmmit: 3
