@@ -30,3 +30,5 @@ Test 7: Two commits squashed and merged
 Test 8: One commit rebased and pulled
 Test 9:re-try One commit rebased and pulled
 Test 10: One commit for rebase - retry 2
+Test 11: For cherry picking
+	Commit: 1
