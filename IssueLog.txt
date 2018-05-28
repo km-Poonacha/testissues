@@ -24,3 +24,9 @@ Test 5: Two commits on fork with only one merger and other rejected
   Commit 2: reject
 Test 6: Two commits on fork for cherry picking 
   Commit 1: Accept
+Test 7: Two commits squashed and merged
+  Commit 1
+  Commit 2
+Test 8: One commit rebased and pulled
+Test 9:re-try One commit rebased and pulled
+Test 10: One commit for rebase - retry 2
