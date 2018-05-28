@@ -1,1 +1,2 @@
 Commit 1 and push 1: Created file in KMP local and push to origin master.
+Commit 2 and Push 1: Created second commit on the KMP local for the same push event.
